@@ -1,3 +1,4 @@
+//Greeter,js
 import React, { Component } from 'react'
 import config from './config.json'
 
